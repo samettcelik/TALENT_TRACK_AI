@@ -1,5 +1,7 @@
 # TALENT_TRACK_AI
 ![image](https://github.com/user-attachments/assets/d19e6893-7f1d-4c91-874f-b14d5d3a7662)
+![image](https://github.com/user-attachments/assets/cc5763a5-f4ca-4cb9-8672-33863f31fb50)
+![image](https://github.com/user-attachments/assets/14cacd68-afa6-48d3-ac5f-41facc9a5954)
 
 ## Purpose
 
@@ -49,13 +51,19 @@ TalentTrack AI is an AI-powered pre-interview system designed to streamline recr
    - Stress levels
    - Emotional state
 3. Results are displayed as interactive graphs and detailed reports on the interface.
-![image](https://github.com/user-attachments/assets/68c16c17-f6d4-4dba-9159-51a9177b36c1)
+![image](https://github.com/user-attachments/assets/fd2eb7bf-a6e3-47ba-900c-e9e98bcdc1ed)
+
+![image](https://github.com/user-attachments/assets/17703996-57f7-4362-85d7-539772432d12)
+
+![image](https://github.com/user-attachments/assets/5b5e9da2-834d-4b85-98ad-9b079c38e81f)
+
+![image](https://github.com/user-attachments/assets/ba099341-e11d-413e-922c-c8f761340215)
 
 ## Value Proposition
 
 TalentTrack AI provides a cutting-edge platform for pre-interview processes, delivering value to both companies and candidates. By using AI-driven insights, it ensures faster, more data-driven hiring decisions and fosters continuous personal development for candidates.
 
----![image](https://github.com/user-attachments/assets/c88cb188-9821-428c-9bf5-2d3146c173b1)
+
 
 
 **Note**: Ensure that all collected data complies with privacy regulations and is handled securely.
